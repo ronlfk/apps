@@ -1,4 +1,5 @@
 google.com, pub-8150226043311642, DIRECT, f08c47fec0942fa0
+facebook.com, 2769261540106119, DIRECT, c3e20eee3f780d68
 inmobi.com, b551460f9e044bf4b55d55b892ff02b2, DIRECT, 83e75a7ae333ca9d
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 mintegral.com, 10003, RESELLER
